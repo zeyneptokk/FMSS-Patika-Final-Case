@@ -1,7 +1,7 @@
 # FMSS-Patika-Final-Case
 
 <img src="Images/DriveflexLogo.png" width="200" />
-Patika ve FMSS Bilişim Teknoloji iş birliğinde gerçekleşen **İş Analizi ve Test Bootcamp**'inin bitirme projesi olarak **Driveflex** mobil araç kiralama uygulamasının analizini ve test projesini hazırladık. Driveflex kullanıcılara esnek, kapsamlı ve kolay bir araç kiralama hizmeti sunmayı hedefliyor. 
+Patika ve FMSS Bilişim Teknoloji iş birliğinde gerçekleşen İş Analizi ve Test Bootcamp'inin bitirme projesi olarak Driveflex mobil araç kiralama uygulamasının analizini ve test projesini hazırladık. Driveflex kullanıcılara esnek, kapsamlı ve kolay bir araç kiralama hizmeti sunmayı hedefliyor. 
 
 
 #### Proje Kapsamı 
@@ -43,6 +43,9 @@ Patika ve FMSS Bilişim Teknoloji iş birliğinde gerçekleşen **İş Analizi v
 <img src="Images/TestLogout.png" width="400" />
 
 #### İletişim Bilgilerim
+
+<img src="Images/Work.gif" width="400" />
+
 [LinkedIn Hesabım](https://www.linkedin.com/in/zeynepyunsel/) 
 
 [Email Adresim](mailto:zeyneptok1997@gmail.com) 
